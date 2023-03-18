@@ -182,3 +182,16 @@ footer {
   background: url("/images/icons/globe.svg");
   background-size: 24px 24px;
 }
+
+.partners {
+  margin: 12px auto 30px auto;
+  padding: 12px 0 30px 0;
+  background-image: linear-gradient(#fff0 0%, #fffa 40%, #fffa 60%, #fff0 100%);
+}
+
+.partners img {
+  margin: 18px;
+  max-height: 72px;
+  max-width: 240px;
+  vertical-align: middle;
+}
